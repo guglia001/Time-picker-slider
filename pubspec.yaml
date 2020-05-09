@@ -1,7 +1,6 @@
 name: time_slider
-description: A flutter tool to get a slider of time picker (only hours).
-version: 0.0.1
-author: Mario Guglia
+description: package to get a vertical slider of an time picker (or any type of text) where you can only choose one and set properties of selected and non selected items
+version: 0.1.0
 homepage:      https://github.com/guglia001/Time-picker-slider
 repository:    https://github.com/guglia001/Time-picker-slider
 issue_tracker: https://github.com/guglia001/Time-picker-slider/issues

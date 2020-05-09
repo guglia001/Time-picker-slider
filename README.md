@@ -58,7 +58,7 @@ this will to make all items ``` isSelected ``` as false execept the selected one
 
 
 
-![alt text](https://res.cloudinary.com/dr7sntabv/image/upload/v1588885641/Screenshot_1588885516_asi80q.png ) ![alt text](https://res.cloudinary.com/dr7sntabv/image/upload/v1588885641/Screenshot_1588885510_so7t3p.png )
+![alt text](https://res.cloudinary.com/dr7sntabv/image/upload/c_scale,h_483/v1588885641/Screenshot_1588885516_asi80q.png ) ![alt text](https://res.cloudinary.com/dr7sntabv/image/upload/c_scale,h_483/v1588885641/Screenshot_1588885510_so7t3p.png )
 
 ``` dart 
 import 'package:flutter/material.dart';

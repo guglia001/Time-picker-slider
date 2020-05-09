@@ -50,7 +50,6 @@ class _TimeSliderState extends State<TimeSlider> {
         return Row(
           children: <Widget>[
             InkWell(
-             
               onTap: () {
                 setState(() {
                   widget.hoursList
